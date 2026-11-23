@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?ref=vbrytm16)
+[![Rank](https://make.fun/badge/news-image-20261123/ZQ051031/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123?ref=vbrytm16)
+[![Reward](https://make.fun/badge/news-image-20261123/ZQ051031/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?ref=vbrytm16)
+
 # The World in One Picture — Monday 23 November 2026
 
 A 1024×1024 PNG poster summarising the world news of Monday 23 November
